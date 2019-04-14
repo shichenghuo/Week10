@@ -1,1 +1,30 @@
+LIVING LIGHT- A lighting can change its brightness base on the enviornment light
+
+Summary
+LIVING LIGHT is a ambient lighting. It can change automaticly when the enviornment turns dark and can change the color of 
+light by the switch. 
+
+Timeline
+Week 1
+Defining the components I will needs for buiding the arduino circuit. Designing the appearance of the lighting and start to
+plan how to build the circuit. 
+Week 2
+Building the arduino circuit and define the code need to be used for the output.
+Week 3 
+Adjustify the code, make sure it can work smoothly. Putting the arduino circuit in the lighting structure.
+
+Components part
+Plywood for cutting out the apperance for the lighting.
+Arduino circuit.(Arduino UNO R3, I/O Sensor Expansion Shield, Digital Piranha LED-R, TowerPro SG50 Servo, 
+Analog Ambient Light Sensor)
+
+Challenge
+Need to know each part how to work.
+Building the circuit. Making sure everything is the right place.
+How the switch will work.
+Defining the code for the lighting.(How to response to the enviornment light?)
+
+Reference
+https://www.dfrobot.com/blog-669.html
+https://www.youtube.com/watch?v=T5Aq7cRc-mU
 
