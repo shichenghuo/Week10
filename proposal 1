@@ -1,0 +1,30 @@
+YOUR ROBOT BUDDY - DUDU(Gesture Controlled Bot)
+
+Summary
+DUDU is a hand gesture control pull toy and it will looks like a dinosaur. Users will wear a controller bracelets. The bracelet 
+has sensors link to the pull toy and lead the direction (left, right, backward, forward).
+
+Timeline
+Week 1
+Defining the what compponents I need to prepare for buiding the robot. Designing and using lasercut to cut out the apperance
+of the gesture conctrolled box.
+Week 2
+Putting every components together and start to upload the code to Arduino and test the robot. Applying the hand gesture on 
+moving direction.
+Week 3 
+Adjustify the code make sure the robot movement route can pair up with the hand gesture.
+
+Components part
+Plywood for cutting out the apperance for the robot.
+Arduino circuit.(Adafruit BNO055 Absolute Orientation Sensor, Arduino MKR1000, Arduino Uno, Arduino Motor Shield, batteries)
+
+Challenge
+Arduino is new area to me, so it might need sometimes for me to learn about the circuit building. Also the coding is another 
+challenge part for me since I am not sure what kinds arguments or functions I will need for output.
+Need to know how's each components fuctioning. (Where should I place the components on the robot?)
+Need to get more familiar with the output code. (How to adjust speed? How to apply the hand gesture in the code?)
+
+Reference
+https://www.instructables.com/id/Gesture-Controlled-Robot/
+https://www.electronicshub.org/hand-gesture-controlled-robot/
+https://create.arduino.cc/projecthub/16061/gesture-controlled-robot-6f8434?ref=search&ref_id=gesture%20controlled&offset=4
